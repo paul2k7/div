@@ -30,6 +30,18 @@
     <p>You can contact him</p>
   </div>
   
+  <div class="comments">
+    <div id=single-comment>
+      <p>Comment1</p>
+    </div>
+    <div id=single-comment>>
+      <p>Comment2</p>
+    </div>
+    <div>
+      <p>Comment3</p>
+    </div>
+  </div>
+  
   <!== sections, id, classes, css
 
 
