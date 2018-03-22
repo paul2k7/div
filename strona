@@ -4,21 +4,21 @@
 
 <body>
 
-  <div>
+  <div id="header">
     <img src="asdf.jpg" alt="opis awaryjny">
     <a href="http://strona.com">Strona<a/>
     <h1>Welcome</h1>
     <p>Tekst poniżej</p>  
   </div>
   
-  <div>
+  <div id="tabelka">
     <ol>
       <li>Jeden</li>
       <li>Dwa</li>
       <li>Trzy</li>
   </div>
   
-  <div>
+  <div id="kontakt">
     <h2>Contact</h2>
     <p>You can contact him</p>
   </div>
