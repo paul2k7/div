@@ -5,11 +5,25 @@
 <body>
 
   <div>
-    <img src="asdf.jpg." alt="opis awaryjny">
+    <img src="asdf.jpg" alt="opis awaryjny">
+    <a href="http://strona.com">Strona<a/>
     <h1>Welcome</h1>
-    <p>Tekst poniżej</p>
-  
+    <p>Tekst poniżej</p>  
   </div>
+  
+  <div>
+    <ol>
+      <li>Jeden</li>
+      <li>Dwa</li>
+      <li>Trzy</li>
+  </div>
+  
+  <div>
+    <h2>Contact</h2>
+    <p>You can contact him</p>
+  </div>
+  
+  <!== sections, id, classes, css
 
 
 </body>
