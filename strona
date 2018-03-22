@@ -18,6 +18,12 @@
       <li>Trzy</li>
   </div>
   
+  <div class="tabelka2">
+    <ul>
+      <li>jeden</li>
+      <li>dwa</li>
+  </div>
+  
   <div id="kontakt">
     <h2>Contact</h2>
     <p>You can contact him</p>
